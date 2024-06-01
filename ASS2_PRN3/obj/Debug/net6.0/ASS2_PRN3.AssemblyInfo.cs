@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASS2_PRN3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e205f080b87fa2b427420b5b984364f9649ff8fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASS2_PRN3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASS2_PRN3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

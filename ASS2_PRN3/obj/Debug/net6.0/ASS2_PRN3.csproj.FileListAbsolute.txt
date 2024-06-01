@@ -67,3 +67,7 @@ D:\Ki_8\PRN231\ASS2_PRN3\ASS2_PRN3\obj\Debug\net6.0\refint\ASS2_PRN3.dll
 D:\Ki_8\PRN231\ASS2_PRN3\ASS2_PRN3\obj\Debug\net6.0\ASS2_PRN3.pdb
 D:\Ki_8\PRN231\ASS2_PRN3\ASS2_PRN3\obj\Debug\net6.0\ASS2_PRN3.genruntimeconfig.cache
 D:\Ki_8\PRN231\ASS2_PRN3\ASS2_PRN3\obj\Debug\net6.0\ref\ASS2_PRN3.dll
+D:\Ki_8\PRN231\ASS2_PRN3\ASS2_PRN3\obj\Debug\net6.0\ASS2_PRN3.sourcelink.json
+D:\Ki_8\PRN231\ASS2_PRN3\ASS2_PRN3\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Ki_8\PRN231\ASS2_PRN3\ASS2_PRN3\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Ki_8\PRN231\ASS2_PRN3\ASS2_PRN3\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll

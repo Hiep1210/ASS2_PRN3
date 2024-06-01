@@ -19,7 +19,6 @@ namespace ASS2_PRN3.Models
         public string? State { get; set; }
         public string? Zip { get; set; }
         public string? EmailAddress { get; set; }
-
         public virtual ICollection<BookAuthor> BookAuthors { get; set; }
     }
 }

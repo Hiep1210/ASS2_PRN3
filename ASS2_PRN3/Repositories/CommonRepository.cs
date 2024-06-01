@@ -3,7 +3,7 @@ using System.Linq.Expressions;
 
 namespace ASS2_PRN3.Repositories
 {
-    public abstract class CommonRepository<T> : IRepository<T> where T : class
+    public class CommonRepository<T> : IRepository<T> where T : class
     {
         protected ASS2Context context;
 

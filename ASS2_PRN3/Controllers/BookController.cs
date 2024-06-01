@@ -6,10 +6,10 @@ namespace ASS2_PRN3.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class BookController : Controller
+    public class BookController : ControllerBase
     {
         private IRepository<Book> repo;
-        public BookController(IRepository<Book> repo)
+        public BookController(BookRepository repo)
         {
             this.repo = repo;
         }
